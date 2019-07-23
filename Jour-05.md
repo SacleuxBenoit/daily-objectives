@@ -1,7 +1,6 @@
-# Objectifs journaliers
+#  Objectifs journaliers
 
 ## Lundi 22/07/2019
-//Maj 23/07 cours
 
 * [x] Créer son premier repo Github
 * [x] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
