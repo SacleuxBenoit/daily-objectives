@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Mercredi 24/07/2019
+## Mercredi 24/07/2019 
 
 
 * [x] Savoir se documenter (MDN)
