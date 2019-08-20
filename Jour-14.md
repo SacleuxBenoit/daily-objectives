@@ -6,7 +6,7 @@
 * [ ] Javascript :
   * [x] Comprendre la comparaison en Javascript (https://javascript.info/comparison) :
     * [x] Comprendre comment sont comparés les strings ?
-    * [ ] Comprendre quelle est la différence entre `==` et `===` ?
+    * [x] Comprendre quelle est la différence entre `==` et `===` ?
     * [x] Comprendre comment sont comparées des valeurs de types différents ?
     * [ ] Comprendre le mécanisme de comparaison avec `null` et `undefined`
 
@@ -18,9 +18,9 @@
   * [x] Revoir le mécanisme de tri fusion (Merge Sort)
 
 * [ ] CSS : 
-  * [ ] Découverte des icones vectorielles (https://fontawesome.com/)
+  * [x] Découverte des icones vectorielles (https://fontawesome.com/)
   * [x] Découverte des préprocesseurs CSS :
     * [ ] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
-    * [ ] Comprendre le mécanisme du preprocessing (input => output)
-    * [ ] Découvrir le préprocesseur CSS le plus répandu : SASS
+    * [x] Comprendre le mécanisme du preprocessing (input => output)
+    * [x] Découvrir le préprocesseur CSS le plus répandu : SASS
       * [x] Installation de SASS (npm version)
