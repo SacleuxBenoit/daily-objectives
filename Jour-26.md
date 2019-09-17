@@ -7,14 +7,14 @@
 
   * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
-      * [ ] `querySelector`
-      * [ ] `querySelectorAll`
-      * [ ] `getElementById`
-      * [ ] `getElementsByName`
-      * [ ] `getElementsByTagName`
-      * [ ] `getElementsByClassName`
-      * [ ] `elem.matches(css)`
-      * [ ] `elem.closest(css)`
+      * [x] `querySelector`
+      * [x] `querySelectorAll`
+      * [x] `getElementById`
+      * [x] `getElementsByName`
+      * [x] `getElementsByTagName`
+      * [x] `getElementsByClassName`
+      * [/] `elem.matches(css)` There is elem.matches(css) to check if elem matches the given CSS selector.
+      * [/s] `elem.closest(css)` There is elem.closest(css) to look for the nearest ancestor that matches the given CSS-selector. The elem itself is also checked.
     * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
   * [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
