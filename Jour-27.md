@@ -4,12 +4,12 @@
 
 * [ ] Javascript :
 
-  * [ ] Savoir modifier un document (https://javascript.info/modifying-document)
+  * [x] Savoir modifier un document (https://javascript.info/modifying-document)
     * Savoir :
-      * [ ] Créer un `element`
-      * [ ] Utilier les différentes méthodes d'insertions
-      * [ ] Supprimer un `node`
-      * [ ] Cloner un `node`
+      * [x] Créer un `element`
+      * [x] Utilier les différentes méthodes d'insertions
+      * [x] Supprimer un `node`
+      * [x] Cloner un `node`
 
   * [ ] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
     * [ ] Comprendre la différence entre `className` et `classList`
