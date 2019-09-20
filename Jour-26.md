@@ -23,7 +23,7 @@
     * [x] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
     * [x] Comprendre comment fonctionne `nodeValue` et `data` (quelle est leur utilité)
     * [x] Comprendre comment fonctionne `textContent` (quel est son point fort)
-    * [ ] Comprendre comment fonctionne `hidden`
+    * [x] Comprendre comment fonctionne `hidden` (same as display:none)
 
   * [x] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
     * Savoir comment : 
@@ -31,7 +31,8 @@
       * [x] récupérer la valeur d'un `attribute`
       * [x] écrire une valeur pour un `attribute`
       * [x] supprimer un `attribute`
-      * [ ] récupérer une collection de tous les `attributes`
+      * [x] récupérer une collection de tous les `attributes`
+      * [ ] tasks 
 
 * Codewars :
   * [ ] Count of positives / sum of negatives (https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
