@@ -5,7 +5,7 @@
 
 * [ ] Javascript :
 
-  * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
+  * [x] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
       * [x] `querySelector`
       * [x] `querySelectorAll`
@@ -13,24 +13,24 @@
       * [x] `getElementsByName`
       * [x] `getElementsByTagName`
       * [x] `getElementsByClassName`
-      * [/] `elem.matches(css)` There is elem.matches(css) to check if elem matches the given CSS selector.
-      * [/] `elem.closest(css)` There is elem.closest(css) to look for the nearest ancestor that matches the given CSS-selector. The elem itself is also checked.
-    * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
+      * [x] `elem.matches(css)` 
+      * [x] `elem.closest(css)` 
+    * [x] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
-  * [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
+  * [x] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
     * [x] Découvrir la différence entre les `nodeType` (1,3 et 9) // elem.nodeType == 1 for element nodes, elem.nodeType == 3 for text nodes,  elem.nodeType == 9 for the document object,
-    * [ ] Comprendre comment fonctionne `innerHTML` (quels sont les "dangers", ses limitations)
-    * [ ] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
-    * Comprendre comment fonctionne `nodeValue` et `data` (quelle est leur utilité)
-    * [ ] Comprendre comment fonctionne `textContent` (quel est son point fort)
+    * [x] Comprendre comment fonctionne `innerHTML` (quels sont les "dangers", ses limitations)
+    * [x] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
+    * [x] Comprendre comment fonctionne `nodeValue` et `data` (quelle est leur utilité)
+    * [x] Comprendre comment fonctionne `textContent` (quel est son point fort)
     * [ ] Comprendre comment fonctionne `hidden`
 
-  * [ ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
+  * [x] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
     * Savoir comment : 
-      * [ ] vérifier l'existence d'un `attribute`
-      * [ ] récupérer la valeur d'un `attribute`
-      * [ ] écrire une valeur pour un `attribute`
-      * [ ] supprimer un `attribute`
+      * [x] vérifier l'existence d'un `attribute`
+      * [x] récupérer la valeur d'un `attribute`
+      * [x] écrire une valeur pour un `attribute`
+      * [x] supprimer un `attribute`
       * [ ] récupérer une collection de tous les `attributes`
 
 * Codewars :
