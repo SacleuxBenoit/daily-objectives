@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Mardi 31/09/2019
+## Mercredi 02/09/2019
 
 
 ### Vue JS : 
