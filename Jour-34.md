@@ -5,14 +5,14 @@
 
 ### Frameworks JS : 
 
-  * [ ] Découvir les composants (https://fr.vuejs.org/v2/guide/components.html)
+  * [x] Découvir les composants (https://fr.vuejs.org/v2/guide/components.html)
 
-  * [ ] Comprendre comment fonctionnent les relations parents/enfants dans Vue JS
-    * [ ] props
-    * [ ] events
-    * [ ] data
-    * [ ] slots
-    * [ ] methods
+  * [x] Comprendre comment fonctionnent les relations parents/enfants dans Vue JS
+    * [x] props
+    * [x] events
+    * [x] data
+    * [X] slots
+    * [x] methods
 
   * [ ] Comprendre le flux de données unidirectionnel (one way data binding)
   
