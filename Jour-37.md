@@ -18,4 +18,10 @@
 
 ### Frappe au clavier :
 
-* [ ] Leçon 1 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/1)
+* [x] Leçon 1 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/1)
+
+### Bonus : 
+
+[] comment on gére les erreurs dans nodes js 
+[x] trycatch (https://javascript.info/try-catch)
+[] différence entre une erreur et une exception 
