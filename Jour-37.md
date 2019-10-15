@@ -4,16 +4,16 @@
 
 ### Javascript : 
 
-* [ ] Approfondir sa compréhension des fonctions en étudiant les `closures` (https://javascript.info/closure)
+* [x] Approfondir sa compréhension des fonctions en étudiant les `closures` (https://javascript.info/closure)
   * [ ] Faire les exercices
 
 
 ### Backend : 
 
-* [ ] Comprendre ce qu'est Node.js
+* [x] Comprendre ce qu'est Node.js
 * [ ] Préparation de l'environnement de développement backend (installations, mises à jour)
-* [ ] Comprendre la différence entre le développement synchrone et asynchrone
-* [ ] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
+* [x] Comprendre la différence entre le développement synchrone et asynchrone
+* [x] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
 
 
 ### Frappe au clavier :
@@ -22,6 +22,6 @@
 
 ### Bonus : 
 
-[] comment on gére les erreurs dans nodes js 
+[x] comment on gére les erreurs dans nodes js 
 [x] trycatch (https://javascript.info/try-catch)
-[] différence entre une erreur et une exception 
+[x] différence entre une erreur et une exception 
