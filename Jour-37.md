@@ -5,7 +5,7 @@
 ### Javascript : 
 
 * [x] Approfondir sa compréhension des fonctions en étudiant les `closures` (https://javascript.info/closure)
-  * [ ] Faire les exercices
+  * [x] Faire les exercices
 
 
 ### Backend : 
