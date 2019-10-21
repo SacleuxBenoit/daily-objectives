@@ -3,7 +3,7 @@
 ## Lundi 29/07/2019
 
 
-* [x] Décrouvrir le Javascript
+* [x] Découvrir le Javascript
   * [x] Comprendre ce qu'est Javascript, ce qu'il peut, ce qu'il ne peut pas (http://javascript.info/intro)
   * [x] Découvrir la documentation officielle JavaScript (http://javascript.info/manuals-specifications) : 
     * [x] Comprendre ce qu'est la spécification `ECMA-262`
