@@ -14,6 +14,6 @@
   * [x] Comprendre le fonctionnement des alias
   * [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   * [x] Comprendre le principe des options dans les commandes
-* [ ] Découverte de Vim (Vimtutor)
+* [x] Découverte de Vim (Vimtutor)
 * [x] Découverte de VS Code
 * [x] Choix de son éditeur, configuration et customisation
