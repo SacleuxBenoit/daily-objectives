@@ -10,7 +10,7 @@
 ### Vue JS : 
 
   * [x] Comprendre ce qu'est une instance de Vue JS (https://vuejs.org/v2/guide/instance.html)
-    * PS : Les cycles de vie seront vus plus tard, mais possibilités de commencer la découverte
+    *[x] PS : Les cycles de vie seront vus plus tard, mais possibilités de commencer la découverte
   
   * [x] Comprendre le fonctionnement et la syntaxe de template (https://vuejs.org/v2/guide/syntax.html)
     * [x] Les interpolations
