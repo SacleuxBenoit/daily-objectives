@@ -16,7 +16,7 @@
 * [X] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 * [X] Installation de `PostgreSQL`
 * [ ]      Découvrir le fonctionnement du `REPL` de `PostgreSQL`
-* [ ] Création/suppression de comptes utilisateurs
+* [/] Création/suppression de comptes utilisateurs
 * [x] Création de bases de données (https://youtu.be/DvDOU-v822w)
 * [x] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
 * [x] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
@@ -24,6 +24,6 @@
 
 ### Node.JS : 
 
-* [] Découverte d'`Express.js`
+* [x] Découverte d'`Express.js`
 * [] Installation d'`Express.js`
 * [] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
