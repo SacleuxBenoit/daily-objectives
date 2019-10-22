@@ -5,8 +5,8 @@
 ### Javascript : 
 
   * [x] Comprendre le fonctionnement des `callbacks` (https://javascript.info/callbacks)
-  * [/] Comprendre le fonctionnement des `promises` (https://javascript.info/promise-basics)
-  * [ ] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
+  * [x] Comprendre le fonctionnement des `promises` (https://javascript.info/promise-basics)
+  * [x] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
 
 
 ### SQL :
