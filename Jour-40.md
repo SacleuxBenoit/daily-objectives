@@ -18,17 +18,17 @@
     * [x] `INT`
     * [X] `NUMERIC`
     * [x] `SERIAL`
-  * [ ] Les types chaînes de caractères :
-    * [ ] `CHAR`
-    * [X] `VARCHAR`
-    * [ ] `TEXT`
+  * [x] Les types chaînes de caractères :
+    * [x] `CHAR`    (Longueur fixe, comblé avec des espaces)
+    * [X] `VARCHAR` (Longueur variable avec limite)
+    * [x] `TEXT`    (Longueur variable illimitée)
   * [ ] Les types dates : 
-    * [X] `TIME`
-    * [X] `DATE`
-    * [ ] `TIMESTAMP`
+    * [X] `TIME`      (heure seul)
+    * [X] `DATE`      (date seul, sans heure)
+    * [x] `TIMESTAMP` (date et heure)
   * [x] Autres :
-    * [X] `BOOLEAN`
-    * [x] `ENUM`
+    * [X] `BOOLEAN` (true, false)
+    * [] `ENUM`
 
 * [x] Savoir générer une base de données avec `Mockaroo` (https://mockaroo.com/)
 * [ ] Savoir restaurer une base de données
