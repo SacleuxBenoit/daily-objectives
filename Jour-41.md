@@ -4,8 +4,8 @@
 
 ### Javascript : 
 
-* [ ] Comprendre l'héritage prototypal (http://javascript.info/prototype-inheritance)
-* [ ] Savoir ce que sont les prototypes natifs (http://javascript.info/native-prototypes)
+* [x] Comprendre l'héritage prototypal (http://javascript.info/prototype-inheritance)
+* [x] Savoir ce que sont les prototypes natifs (http://javascript.info/native-prototypes)
 
 
   #### Bonus de vacances :
@@ -19,24 +19,27 @@
 
 ### SQL :
 
-* [ ] Commencer son cheat sheet `PostgreSQL` (classer par actions)
+* [x] Commencer son cheat sheet `PostgreSQL` (classer par actions)
 * [ ] Savoir retrouver une information d'une base de données
-* [ ] Savoir trier les résultats
-* [ ] Savoir extraire les données distinctes
-* [ ] Savoir retrouver une information selon des conditions précises
+* [x] Savoir trier les résultats
+* [x] Savoir extraire les données distinctes
+* [x] Savoir retrouver une information selon des conditions précises
+
+### truc perso en +
+* [ ] Bien comprendre ce qu'est PostgreSQL ET SQL.
 
   #### Bonus de vacances :
-  * [ ] Aller le plus loin possible sur `SQLBolt` (https://sqlbolt.com/)
-  * [ ] Comprendre les relations en `SQL` :
-    * [ ] `One-to-One`
-    * [ ] `One-to-Many`
-    * [ ] `Many-to-Many`
+  * [/] Aller le plus loin possible sur `SQLBolt`'
+  * [x] Comprendre les relations en `SQL` :
+    * [x] `One-to-One`
+    * [x] `One-to-Many`
+    * [X] `Many-to-Many`
 
 
 
 ### Node.JS : 
 
-* [ ] Découvrir le `routing` d'`Express` (https://expressjs.com/en/starter/basic-routing.html)
+* [x] Découvrir le `routing` d'`Express` (https://expressjs.com/en/starter/basic-routing.html)
 * [ ] Savoir créer des routes différentes qui pointent vers des vues précises en fonction de l'url demandée
 
   #### Bonus de vacances :
