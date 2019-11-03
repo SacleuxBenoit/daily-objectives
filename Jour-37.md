@@ -11,7 +11,7 @@
 ### Backend : 
 
 * [x] Comprendre ce qu'est Node.js
-* [ ] Préparation de l'environnement de développement backend (installations, mises à jour)
+* [x] Préparation de l'environnement de développement backend (installations, mises à jour)
 * [x] Comprendre la différence entre le développement synchrone et asynchrone
 * [x] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
 
