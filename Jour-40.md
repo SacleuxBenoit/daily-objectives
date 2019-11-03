@@ -28,7 +28,7 @@
     * [x] `TIMESTAMP` (date et heure)
   * [x] Autres :
     * [X] `BOOLEAN` (true, false)
-    * [] `ENUM`
+    * [x] `ENUM`
 
 * [x] Savoir générer une base de données avec `Mockaroo` (https://mockaroo.com/)
 * [/] Savoir restaurer une base de données
@@ -40,3 +40,6 @@
 
 * [x] Installation du moteur de template `Pug` (https://pugjs.org/api/getting-started.html)
 * [ ] Savoir créer des vues personnalisées avec `Pug` ou `EJS` (plusieurs fois, plusieurs différentes)
+
+
+https://youtu.be/hMPptslDjsQ
