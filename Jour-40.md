@@ -22,7 +22,7 @@
     * [x] `CHAR`    (Longueur fixe, comblé avec des espaces)
     * [X] `VARCHAR` (Longueur variable avec limite)
     * [x] `TEXT`    (Longueur variable illimitée)
-  * [ ] Les types dates : 
+  * [x] Les types dates : 
     * [X] `TIME`      (heure seul)
     * [X] `DATE`      (date seul, sans heure)
     * [x] `TIMESTAMP` (date et heure)
