@@ -3,9 +3,9 @@
 ## Lundi 02/09/2019
 
 
-* [ ] Javascript :
+* [x] Javascript :
   * [X] Comprendre le fonctionnement du `switch` (https://javascript.info/switch) => **+ Exercices**
-  * [ ] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics) => **+ Exercices**
+  * [x] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics) => **+ Exercices**
   * Comprendre les différences entre `function declaration`, `function-expression` et `arrow functions` (https://javascript.info/function-expressions-arrows) => **+ Exercices**
   * [x] S'assurer que toutes les notions dans la page `Javascript special` sont bien acquises.
 
