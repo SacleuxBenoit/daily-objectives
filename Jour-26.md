@@ -3,7 +3,7 @@
 ## Mardi 17/09/2019
 
 
-* [ ] Javascript :
+* [x] Javascript :
 
   * [x] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
