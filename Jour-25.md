@@ -27,7 +27,7 @@
         * [x] `lastChild`
         * [x] `previousSibling`
         * [x] `nextSibling`
-    * [] Faire les exercices
+    * [x] Faire les exercices
 
 
 
