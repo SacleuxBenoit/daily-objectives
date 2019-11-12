@@ -12,7 +12,7 @@
   * [ ] Comprendre les méthodes protypales modernes (http://javascript.info/prototype-methods)
   * [ ] Révision de l'héritage protypale (chaque table explique à "son élève" l'héritage protypale)
 
-  * [ ] Comprendre ce qu'est une classe en `Javascript` (http://javascript.info/class)
+  * [x] Comprendre ce qu'est une classe en `Javascript` (http://javascript.info/class)
   * [ ] Comprendre le fonctionnement de l'héritage de classe en `Javascript` (http://javascript.info/class-inheritance)
 
 
@@ -20,7 +20,7 @@
 ### SQL :
 
 * [x] Commencer son cheat sheet `PostgreSQL` (classer par actions)
-* [ ] Savoir retrouver une information d'une base de données
+* [x] Savoir retrouver une information d'une base de données
 * [x] Savoir trier les résultats
 * [x] Savoir extraire les données distinctes
 * [x] Savoir retrouver une information selon des conditions précises
@@ -40,7 +40,7 @@
 ### Node.JS : 
 
 * [x] Découvrir le `routing` d'`Express` (https://expressjs.com/en/starter/basic-routing.html)
-* [ ] Savoir créer des routes différentes qui pointent vers des vues précises en fonction de l'url demandée
+* [x] Savoir créer des routes différentes qui pointent vers des vues précises en fonction de l'url demandée
 
   #### Bonus de vacances :
   * [ ] Installation de `express-generator`
